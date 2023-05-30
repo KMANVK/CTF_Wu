@@ -86,6 +86,6 @@ With that in mind, the remainder of this solution is as follows:
 	1. Check all of the files whose original name was prefixed `$I` for `\monkey\Pictures\stock\rrr.png` in its contents. 
 	2. Find the corresponding `$R` file and view the `png`'s contents. 
 
-=> 1.
+=> 1.ps1
 
 Flag: `ctf{r3cycLers_missing}`
